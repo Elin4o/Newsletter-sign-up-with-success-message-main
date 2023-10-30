@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://elin4o.github.io/Newsletter-sign-up-with-success-message-main/]([https://your-live-site-url.com](https://elin4o.github.io/Newsletter-sign-up-with-success-message-main/))
+- Live Site URL: [(https://elin4o.github.io/Newsletter-sign-up-with-success-message-main/)]([https://elin4o.github.io/Newsletter-sign-up-with-success-message-main/])
 
 ## My process
 
